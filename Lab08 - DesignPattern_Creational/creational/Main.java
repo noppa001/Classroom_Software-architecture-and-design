@@ -21,10 +21,10 @@ public class Main {
 //        }
 
         // Expected usage
-        BookMetadataExporter exporter = new XMLBookMetadataExporter();
-        exporter.add(TestData.sailboatBook);
-        exporter.add(TestData.GoFBook);
-        exporter.export(System.out);
+//         BookMetadataExporter exporter = new XMLBookMetadataExporter();
+//         exporter.add(TestData.sailboatBook);
+//         exporter.add(TestData.GoFBook);
+//         exporter.export(System.out);
 
         // new usage : Design pattern
         BookMetadataExporter newExporter;

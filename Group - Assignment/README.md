@@ -1,4 +1,4 @@
-### Assignment OpenRefine (v3.5.0)
+### Assignment Group 7 - OpenRefine (v3.5.0)
 
 + Architecture : Client - Server Architecture
 + Quality Attribute

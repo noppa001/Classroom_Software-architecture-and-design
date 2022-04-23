@@ -1,6 +1,6 @@
 ### Assignment OpenRefine (v3.5.0)
 
-+ Architecture
++ Architecture : Client - Server Architecture
 + Quality Attribute
     + Performance
     + Interopability

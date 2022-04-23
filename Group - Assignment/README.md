@@ -2,9 +2,10 @@
 
 + Architecture
 + Quality Attribute
-    + Item B 1
-    + Item B 2
-    + Item B 3
+    + Performance
+    + Interopability
+    + Availability
+    + Testability
 + Design pattern
     * Sigleton
         * SQLiteConnectionManager.java : https://github.com/OpenRefine/OpenRefine/blob/3.5.0/extensions/database/src/com/google/refine/extension/database/sqlite/SQLiteConnectionManager.java
@@ -23,3 +24,5 @@
     
 ----
 Source code : https://github.com/OpenRefine/OpenRefine/releases/tag/3.5.0
+
+Canva : https://www.canva.com/design/DAE7IbW6F4M/q5HvdUbTR-Lt53ukwnaX8Q/view?utm_content=DAE7IbW6F4M&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
